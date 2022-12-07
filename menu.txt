@@ -1,6 +1,6 @@
 Menù ristorante Develhope
 
-Menù del giorno
+Menù Carne
 -----------BEVANDE------------
 Acqua Naturale 0.5lt  -> 0.50€
 Acqua Frizzante 0.5lt -> 0.50€
