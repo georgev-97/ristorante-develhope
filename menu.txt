@@ -1,5 +1,6 @@
-Menu ristorante Develhope
+Menù ristorante Develhope
 
+Menù del giorno
 -----------BEVANDE------------
 Acqua Naturale 0.5lt  -> 0.50€
 Acqua Frizzante 0.5lt -> 0.50€
