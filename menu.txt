@@ -1,10 +1,9 @@
 Menù ristorante Develhope
 
 Menù Carne
------------BEVANDE------------
-Acqua Naturale 0.5lt  -> 0.50€
-Acqua Frizzante 0.5lt -> 0.50€
-Coca cola 33cl        -> 1.50€
-Vino rosso 25cl       -> 3.50€
-Vino bianco 25cl      -> 3.75€
-------------------------------
+-------------BEVANDE--------------
+Acqua Naturale 0.5lt      -> 0.50€
+Acqua Frizzante 0.5lt     -> 0.50€
+Coca cola 33cl            -> 1.50€
+Vino rosso 25cl           -> 3.50€
+Vino bianco 25cl          -> 3.75€
