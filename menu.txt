@@ -1,21 +1,26 @@
 Menù ristorante Develhope
 
 Menù Carne
----------------BEVANDE---------------
-Acqua Naturale 0.5lt         -> 0.50€
-Acqua Frizzante 0.5lt        -> 0.50€
-Coca cola 33cl               -> 1.50€
-Vino rosso 25cl              -> 3.50€
-Vino bianco 25cl             -> 3.75€
-------------PRIMI PIATTI-------------
-Risotto alla salsiccia       -> 7.00€
-Spaghetti alla Carbonara     -> 7.50€
-Pasta alla Genovese          -> 8.00€
-Cannelloni al ragù           -> 8.50€
-Lasagne alla Bolognese       -> 8.50€
---------------DOLCI------------------
-tiramisù                     -> 5.00€
-tortino con coure caldo      -> 4.00€
-cheesecake                   -> 5.00€
-tartufo bianco               -> 5.50€
-tartufo nero                 -> 5.50€
+----------------BEVANDE---------------
+Acqua Naturale 0.5lt         ->  0.50€
+Acqua Frizzante 0.5lt        ->  0.50€
+Coca cola 33cl               ->  1.50€
+Vino rosso 25cl              ->  3.50€
+Vino bianco 25cl             ->  3.75€
+-------------PRIMI PIATTI-------------
+Risotto alla salsiccia       ->  7.00€
+Spaghetti alla Carbonara     ->  7.50€
+Pasta alla Genovese          ->  8.00€
+Cannelloni al ragù           ->  8.50€
+Lasagne alla Bolognese       ->  8.50€
+------------SECONDI PIATTI------------
+Gateau di patate             -> 10,50€
+Parmigiana di melanzane      ->  9,50€
+Omelette                     -> 11,50€
+Polpette al sugo             -> 13,50€
+---------------DOLCI------------------
+tiramisù                     ->  5.00€
+tortino con coure caldo      ->  4.00€
+cheesecake                   ->  5.00€
+tartufo bianco               ->  5.50€
+tartufo nero                 ->  5.50€
