@@ -13,3 +13,9 @@ Spaghetti alla Carbonara     -> 7.50€
 Pasta alla Genovese          -> 8.00€
 Cannelloni al ragù           -> 8.50€
 Lasagne alla Bolognese       -> 8.50€
+--------------DOLCI------------------
+tiramisù                     -> 5.00€
+tortino con coure caldo      -> 4.00€
+cheesecake                   -> 5.00€
+tartufo bianco               -> 5.50€
+tartufo nero                 -> 5.50€
