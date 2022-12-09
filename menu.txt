@@ -13,3 +13,8 @@ Spaghetti alla Carbonara     -> 7.50€
 Pasta alla Genovese          -> 8.00€
 Cannelloni al ragù           -> 8.50€
 Lasagne alla Bolognese       -> 8.50€
+-----------SECONDI PIATTI------------
+Gateau di patate          ---> 10,50€
+Parmigiana di melanzane   --->  9,50€
+Omelette                  ---> 11,50€
+Polpette al sugo          ---> 13,50€
