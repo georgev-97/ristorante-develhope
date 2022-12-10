@@ -7,6 +7,10 @@ Acqua Frizzante 0.5lt        ->  0.50€
 Coca cola 33cl               ->  1.50€
 Vino rosso 25cl              ->  3.50€
 Vino bianco 25cl             ->  3.75€
+-------------ANTIPASTI----------------
+Tagliere di salumi           ->  6.00€
+Bruschetta filetto di manzo  ->  5.50€
+Tartare di manzo             ->  6.50€
 -------------PRIMI PIATTI-------------
 Risotto alla salsiccia       ->  7.00€
 Spaghetti alla Carbonara     ->  7.50€
